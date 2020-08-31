@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
         //EDITED DIRECLTY IN GITHUB, TEST
+        //CREATED A BRANCH TO SEE CONTROL VERSION IN ACTION
         menuInflater.inflate(R.menu.menu_main, menu)
         return true
     }
