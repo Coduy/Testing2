@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         // Inflate the menu; this adds items to the action bar if it is present.
         //EDITED DIRECLTY IN GITHUB, TEST
         //CREATED A BRANCH TO SEE CONTROL VERSION IN ACTION
-        
+        //ANOTHER TEST
         //branch 2
         menuInflater.inflate(R.menu.menu_main, menu)
         return true
